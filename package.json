@@ -1,0 +1,23 @@
+{
+  "name": "image_upload_two",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.1",
+    "material-ui": "^0.20.1",
+    "material-ui-upload": "^1.2.1",
+    "react": "^16.4.0",
+    "react-avatar-editor": "^11.0.4",
+    "react-dom": "^16.4.0",
+    "react-resizable": "^1.7.5",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "simple-grid-css": "^1.0.34"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

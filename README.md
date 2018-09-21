@@ -1,0 +1,1 @@
+Image upload with zoom, image adjusting and cropped image preview.
